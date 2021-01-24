@@ -1,0 +1,14 @@
+morodev\springframework\morodevrestdocsexample\web\model\BeerDto.class
+morodev\springframework\morodevrestdocsexample\domain\Beer$BeerBuilder.class
+morodev\springframework\morodevrestdocsexample\domain\Beer.class
+morodev\springframework\morodevrestdocsexample\web\mappers\BeerMapperImpl.class
+morodev\springframework\morodevrestdocsexample\repositories\BeerRepository.class
+morodev\springframework\morodevrestdocsexample\MorodevRestdocsExampleApplication.class
+morodev\springframework\morodevrestdocsexample\bootstrap\BeerLoader.class
+morodev\springframework\morodevrestdocsexample\web\mappers\BeerMapper.class
+morodev\springframework\morodevrestdocsexample\web\controller\MvcExceptionHandler.class
+morodev\springframework\morodevrestdocsexample\web\controller\BeerController.class
+morodev\springframework\morodevrestdocsexample\web\model\BeerStyleEnum.class
+morodev\springframework\morodevrestdocsexample\web\mappers\DateMapper.class
+morodev\springframework\morodevrestdocsexample\web\model\BeerDto$BeerDtoBuilder.class
+morodev\springframework\morodevrestdocsexample\web\model\BeerPagedList.class
